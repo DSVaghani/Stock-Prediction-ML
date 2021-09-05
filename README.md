@@ -1,4 +1,4 @@
-# Stock-Prediction-ML
+# Stock Market Prediction using Machine Learning
 
 Data Folder : All Indian company's stock data from 2002 to 2021 which used in this project with NSE Companies Stock ClosePrice file(Many Indian company's stock closing price).
 
